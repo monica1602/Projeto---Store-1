@@ -17,8 +17,8 @@ Este projeto trata da Store 1, uma empresa fictícia de comércio eletrônico qu
 - Propostas de melhorias: Sugerir ajustes nos métodos de coleta, armazenamento e processamento dos dados, visando aumentar a precisão, integridade e utilidade das informações coletadas.
 
 ## Aprendizados
-- Análise de dados
-- Melhoria na qualidade dos dados
+- Análise de dados: Exploração e interpretação dos dados coletados para identificar padrões, tendências e possíveis relações entre variáveis.
+- Melhoria na qualidade dos dados: Implementação de técnicas para garantir a precisão e confiabilidade dos dados, incluindo tratamento de valores ausentes, remoção de duplicatas, padronização de formatos e correção de inconsistências.
 
 ## Contexto real
 - Pequenas empresas que desejam iniciar a coleta de dados: Negócios que ainda não utilizam dados de forma estruturada, mas buscam implementá-los para otimizar processos, melhorar a tomada de decisões e aumentar a eficiência operacional.
