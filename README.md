@@ -1,10 +1,10 @@
 # Projeto de Análise de Dados Store 1
 
 ## Descrição do Projeto 
-Este projeto trata da Store 1, uma empresa fictícia de comércio eletrônico que iniciou recentemente a coleta de dados sobre seus clientes. O objetivo é compreender melhor o comportamento do consumidor e embasar a tomada de decisões estratégicas com base em dados. A partir dessa análise, a empresa busca aprimorar a experiência de compra online, oferecendo um atendimento mais personalizado e eficiente.
+Este projeto trata da Store 1, uma empresa fictícia de comércio eletrônico que iniciou recentemente a coleta de dados sobre seus clientes. O objetivo é compreender melhor o comportamento do consumidor e usar os dados para orientar escolhas estratégicas e otimizar resultados. A partir dessa análise, a empresa busca aprimorar a experiência de compra online, oferecendo um atendimento mais personalizado e eficiente.
 
 ## As tarefas são:
-- Avaliar a qualidade da amostra de dados coletados: Verificar a completude, consistência e validade dos dados, identificando possíveis inconsistências, valores ausentes ou anomalias que possam impactar as análises.
+- Avaliar a qualidade da amostra de dados coletados: Verificar a integridade, consistência e validade dos dados, identificando possíveis inconsistências, valores ausentes ou anomalias que possam impactar as análises.
 - Preparar os dados para análises futuras: Realizar a limpeza, transformação e organização dos dados, garantindo que estejam estruturados de forma adequada para extração de insights e modelagem analítica.
 
 ## Ferramentas e Bibliotecas utilizadas
